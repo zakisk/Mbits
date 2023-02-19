@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mbits</string>
+    <string name="meditation_tool">Meditation Tool</string>
+    <string name="instructor">Instructor</string>
+    <string name="language">Language</string>
+    <string name="expert_level">Expert Level</string>
+    <string name="sunlight_description">Do you want to know how much  Vitamin D you consumed while Meditating in sunlight?</string>
+</resources>
